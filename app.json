@@ -10,8 +10,8 @@
     "productivity"
   ],
   "repository": "https://github.com/ASHUYT2003/MafiaBotIsOP/",
-  "website": "https://github.com/H1M4N5HUOP/MafiaBotIsOP/",
-  "success_url": "https://t.me/DEADWICKYT",
+  "website": "https://github.com/H1M4N5HU0P/MafiaBotIsOP/",
+  "success_url": "https://t.me/MafiaBot_Support",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
